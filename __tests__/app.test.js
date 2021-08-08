@@ -16,7 +16,7 @@ describe('routes', () => {
   
   it('gets a specific toon via GET', async () => {
     
-    const expected =     {
+    const expected = {
       id: 20,
       name: 'Cow',
       mainJob: 7,
